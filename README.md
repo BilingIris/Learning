@@ -1,4 +1,3 @@
-# Learning
 # **Electrical and Computer Courses**   
 ## **1st**
 ### **Digital Control Technology of Power Conversion and Electrical Drives**  
