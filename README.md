@@ -7,8 +7,8 @@
 3. Matlab(基于Buck电路的开闭环验证)*验证模型*
 4. Markdown(控制电路分析SOP)*快捷复用*
 Makedown文本快捷使用：  
-1. 思维导图：https://www.min2k.com/tools/markmap/   
-2. GammaPPT大纲：https://gamma.app/   
+  1. 思维导图：https://www.min2k.com/tools/markmap/   
+  2. GammaPPT大纲：https://gamma.app/   
 # **控制电路分析SOP**
 # 01-分析特定工业场景 
 ### 00-背景分析：工业应用和前沿研究 
