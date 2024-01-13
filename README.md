@@ -5,7 +5,7 @@
 1. 课程笔记(基于半桥逆变器的模拟控制，数字控制)*Notion共享模式需验证*  
 2. PPT文件(基于Buck电路的DC/DC变换)*汇报PPT*  
 3. Matlab(基于Buck电路的开闭环验证)*验证模型*
-4. Markdown(控制电路分析SOP)*快捷复用*
+4. Markdown(控制电路分析SOP)*快捷复用*  
 Makedown文本快捷使用：  
     1. 思维导图：https://www.min2k.com/tools/markmap/   
     2. GammaPPT大纲：https://gamma.app/   
